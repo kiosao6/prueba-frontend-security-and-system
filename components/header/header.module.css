@@ -1,0 +1,35 @@
+.header {
+  padding: 25px 32px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.article {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.article:hover > .icon{
+  transform: rotate(180deg);
+}
+
+.img {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  border: 1px solid #e5e7eb
+}
+
+.icon {
+  transform: rotate(0);
+  transition: .15s;
+}

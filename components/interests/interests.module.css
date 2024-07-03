@@ -1,0 +1,12 @@
+.ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ul li {
+  list-style-position: inside;
+  font-size: 15px;
+  color: #525252;
+  line-height: 1.75rem;
+}

@@ -1,0 +1,15 @@
+.section {
+  margin-top: 40px;
+}
+
+.h2 {
+  font-size: 1.3rem;
+  font-weight: 550;
+  padding-bottom: 16px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
