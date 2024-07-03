@@ -2,6 +2,8 @@
 
 Esta es una prueba técnica para desarrollador frontend para la empresa Security and System.
 
+Puedes ver el proyecto ya desplegado [`aquí`](https://prueba-frontend-security-and-system.vercel.app/)
+
 ## Cómo ejecutar el proyecto
 
 1. **Primero, clona el repositorio de github:**

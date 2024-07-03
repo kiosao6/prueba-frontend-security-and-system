@@ -6,7 +6,7 @@ export const Footer = () => {
     <footer className={styles.footer}>
       <div>
         <p>Desarrollado por <a target='blank' href="https://www.gabrielmaestre.com/">Gabriel Maestre</a> para Security and System</p>
-        <a className={styles.github} target='blank' href="#">
+        <a className={styles.github} target='blank' href="https://github.com/kiosao6/prueba-frontend-security-and-system">
           <FaGithub size={25} color='#525252' />
         </a>
       </div>
