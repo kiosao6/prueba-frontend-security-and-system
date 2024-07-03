@@ -9,7 +9,7 @@ Puedes ver el proyecto ya desplegado [`aquí`](https://prueba-frontend-security-
 1. **Primero, clona el repositorio de github:**
 
 ```bash
-  git clone https://url-del-repositorio.git
+  git clone https://github.com/kiosao6/prueba-frontend-security-and-system
 ```
 
 2. **Una vez clonado en tu máquina, abre la terminal integrada e instala las depencias:**
