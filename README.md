@@ -12,7 +12,7 @@ Puedes ver el proyecto ya desplegado [`aquí`](https://prueba-frontend-security-
   git clone https://github.com/kiosao6/prueba-frontend-security-and-system
 ```
 
-2. **Una vez clonado en tu máquina, abre la terminal integrada e instala las depencias:**
+2. **Una vez clonado en tu máquina, abre la terminal integrada e instala las dependencias:**
 
 ```bash
   npm install
